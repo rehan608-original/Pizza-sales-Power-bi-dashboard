@@ -22,7 +22,17 @@ The primary objective of this project is to analyze transactional sales performa
 * **What is the total quantity of pizzas sold per category?**
 * **Which are the top 5 and bottom 5 pizzas based on total revenue?**
 * **Which are the top 5 and bottom 5 pizzas based on total quantity sold?**
-* * **Which are the top 5 and bottom 5 pizzas based on total order count?**
+* **Which are the top 5 and bottom 5 pizzas based on total order count?**
+
+## Process
+
+* **Data Ingestion:** Imported raw transactional pizza sales data into the SQL database.
+* **SQL Querying &amp; KPI Extraction:** Wrote SQL queries to compute core KPIs including Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas Per Order.
+* **Trend &amp; Breakdown Analysis:** Queried sales volume across days of the week and months, as well as percentage sales shares by pizza category and size.
+* **Performance Ranking:** Applied SQL grouping and sorting to isolate the Top 5 and Bottom 5 menu items ranked by Total Revenue, Quantity Sold, and Total Orders.
+* **Data Filtering Logic:** Developed conditional SQL `WHERE` clauses to segment data dynamically by specific pizza categories.
+* **Dashboard Design (Power BI):** Designed an interactive dashboard containing dynamic summary cards, top/bottom seller visual bar charts, and category slicers.
+
 - Dashboard Interaction <a href="https://github.com/rehan608-original/Pizza-sales-Power-bi-dashboard/blob/main/Screenshot%202026-11-01%20152440.png">View Dashboard_1</a>
 - Dashboard Interaction <a href="https://github.com/rehan608-original/Pizza-sales-Power-bi-dashboard/blob/main/Screenshot%202026-11-01%20152525.png">View Dashboard_2</a>
 
