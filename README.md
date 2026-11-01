@@ -38,3 +38,15 @@ The primary objective of this project is to analyze transactional sales performa
 ![Pizza Sales BI Dashboard](Screenshot%202026-11-01%20152440.png)
 
 ![Pizza Sales BI Dashboard](Screenshot%202026-11-01%20152525.png)
+
+## Project Insights
+
+* **Overall Performance:** The restaurant generated **208.20K Total Revenue** across **9,085 Total Orders** and **11,987 Total Pizzas Sold**, yielding an **Average Order Value of 22.92** and **1.32 Pizzas Per Order**.
+* **Revenue Drivers:** **The Thai Chicken Pizza** contributes the maximum revenue overall, with **The Spicy Italian Pizza** (35K) and **The Italian Supreme Pizza** (33K) also ranking among the top 5 earners.
+* **Volume Leaders:** **The Classic Deluxe Pizza** generated both the highest overall total quantity sold and the highest total order count.
+* **Underperforming Items:** **The Brie Carre Pizza** contributed the lowest total revenue (12K), lowest total quantity sold (0.5K), and lowest total order count (0.5K).
+* **ClipKart Benchmark Data:** Secondary retail analytics show total revenue of **6.16M** across **1K orders**, led by Clothing (2.12M) and top sales cities like Chennai.
+
+## Conclusion
+
+This BI project successfully converts raw SQL order transactions into high-impact operational insights. By pinpointing top revenue generators like **The Thai Chicken Pizza** and volume leaders like **The Classic Deluxe Pizza**, business operators can focus promotional efforts on high-margin items while re-evaluating underperformers such as **The Brie Carre Pizza**.
