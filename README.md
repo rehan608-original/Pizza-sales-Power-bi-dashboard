@@ -37,4 +37,4 @@ The primary objective of this project is to analyze transactional sales performa
 
 ![Pizza Sales BI Dashboard](Screenshot%202026-11-01%20152525.png)
 
-![Pizza Sales BI Dashboard]([https://github.com/rehan608-original/Pizza-sales-Power-bi-dashboard/blob/main/Screenshot%202026-11-01%20152525.png)])
+![Pizza Sales BI Dashboard](Screenshot%202026-11-01%20152525.png)
