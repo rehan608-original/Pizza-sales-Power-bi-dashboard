@@ -33,6 +33,9 @@ The primary objective of this project is to analyze transactional sales performa
 * **Data Filtering Logic:** Developed conditional SQL `WHERE` clauses to segment data dynamically by specific pizza categories.
 * **Dashboard Design (Power BI):** Designed an interactive dashboard containing dynamic summary cards, top/bottom seller visual bar charts, and category slicers.
 
-- Dashboard Interaction <a href="https://github.com/rehan608-original/Pizza-sales-Power-bi-dashboard/blob/main/Screenshot%202026-11-01%20152440.png">View Dashboard_1</a>
-- Dashboard Interaction <a href="https://github.com/rehan608-original/Pizza-sales-Power-bi-dashboard/blob/main/Screenshot%202026-11-01%20152525.png">View Dashboard_2</a>
+## Dashboard Images
+
+(![Pizza Sales BI Dashboard](Screenshot\_2026-10-31\_181331.png))
+
+![Pizza Sales BI Dashboard]([Screenshot\_2026-10-31\_181331.png](https://github.com/rehan608-original/Pizza-sales-Power-bi-dashboard/blob/main/Screenshot%202026-11-01%20152525.png))
 
